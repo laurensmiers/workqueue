@@ -1,0 +1,3 @@
+[submodule "ll"]
+	path = ll
+	url = https://github.com/laurensmiers/generic-static-linked-list.git
