@@ -1,0 +1,7 @@
+# ignore ceedling build folder
+build/
+
+# Ignore GNU tags files
+GPATH
+GRTAGS
+GTAGS
